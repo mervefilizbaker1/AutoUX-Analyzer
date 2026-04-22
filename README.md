@@ -12,7 +12,7 @@ pinned: false
 
 NLP Final Project - User Guide & Technical Documentation
 
-Live Demo: [(https://huggingface.co/spaces/Mfbaker/AutoUX-Analyzer?logs=container)]
+Live Demo: [(https://huggingface.co/spaces/Mfbaker/AutoUX-Analyzer)]
 
 ---
 
